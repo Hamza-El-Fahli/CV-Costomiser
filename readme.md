@@ -70,3 +70,19 @@ L’objectif est de simplifier la recherche d’emploi en réduisant le temps n�
 * **Authentification** : **JWT** (JSON Web Tokens) ou **OAuth2** (selon le besoin)
 * **Assurance Qualité (QA)** : **Jest** (tests unitaires et d'intégration), **Cypress** (tests E2E)
 * **Documentation et Modélisation** : **UML** pour la modélisation des processus, **documentation complète** pour le projet.
+
+
+## Licence
+
+Ce projet est sous la **licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International (CC BY-NC 4.0)**.
+
+Vous êtes libre de :
+- **Partager** : copier, distribuer et transmettre l'œuvre sous les conditions suivantes :
+  - **Attribution** : Vous devez attribuer l'œuvre de manière appropriée, fournir un lien vers la licence et indiquer si des modifications ont été apportées.
+  - **Non Commercial** : Vous ne pouvez pas utiliser l'œuvre à des fins commerciales.
+
+Vous ne pouvez pas :
+- Utiliser l'œuvre à des fins commerciales.
+- Distribuer l'œuvre sans les mêmes conditions de licence.
+
+Voir la licence complète à : [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
