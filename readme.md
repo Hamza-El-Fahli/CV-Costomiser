@@ -63,10 +63,10 @@ L’objectif est de simplifier la recherche d’emploi en réduisant le temps n�
 
 ---
 
-## 🚀 Prochaines étapes
+## Technologies 
 
-- Choix du nom définitif
-- Développement de l’interface utilisateur (frontend)
-- Intégration de AI API pour extraction de mots-clés
-- Génération de documents via moteur de template
-- Export PDF (WeasyPrint ou équivalent)
+* **Front-End** : **Next.js** (TypeScript)
+* **Base de données** : **MariaDB** (avec chiffrement des données sensibles)
+* **Authentification** : **JWT** (JSON Web Tokens) ou **OAuth2** (selon le besoin)
+* **Assurance Qualité (QA)** : **Jest** (tests unitaires et d'intégration), **Cypress** (tests E2E)
+* **Documentation et Modélisation** : **UML** pour la modélisation des processus, **documentation complète** pour le projet.
