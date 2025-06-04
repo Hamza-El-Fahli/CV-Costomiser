@@ -53,16 +53,6 @@ L’objectif est de simplifier la recherche d’emploi en réduisant le temps n�
 
 ---
 
-## 💼 Business Model (bref)
-
-- **Freemium** :
-  - 5 candidatures gratuites
-  - Option premium : illimité, modèles pro, export Word, etc.
-- **Coût très faible** (~0.05 $ par offre analysée)
-- **Conversion PDF locale** pour maîtriser les coûts
-
----
-
 ## Technologies 
 
 * **Front-End** : **Next.js** (TypeScript)
